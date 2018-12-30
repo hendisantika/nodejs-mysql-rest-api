@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-mysql-rest-api",
+  "version": "1.0.0",
+  "description": "NodejD MySQL REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendisantika/nodejs-mysql-rest-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "Hendi Santika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendisantika/nodejs-mysql-rest-api/issues"
+  },
+  "homepage": "https://github.com/hendisantika/nodejs-mysql-rest-api#readme"
+}
