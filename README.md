@@ -21,5 +21,8 @@ INSERT an Employee
 
 UPDATE an Employee
 
+![UPDATE an Employee](img/delete.png "DELETE an Employee")
+
 DELETE An Employee
 
+![DELETE an Employee](img/delete.png "DELETE an Employee")
