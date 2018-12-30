@@ -9,9 +9,15 @@ Run this project by this command :
 
 GET all Employees :
 
-GET an Employee : 
+![Get All Employees](img/list.png "Get All Employees")
+
+GET an Employee by Id :
+
+![GET an Employee by Id](img/getById.png "GET an Employee by Id") 
 
 INSERT an Employee
+
+![INSERT an Employee](img/add.png "INSERT an Employee")
 
 UPDATE an Employee
 
