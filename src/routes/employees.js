@@ -58,6 +58,7 @@ router.post('/', (req, res) => {
 
 });
 
+// UPDATE an Employee
 router.put('/:id', (req, res) => {
     const {name, salary} = req.body;
     const {id} = req.params;
